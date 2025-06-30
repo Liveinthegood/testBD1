@@ -1,0 +1,699 @@
+
+  .img-banner {
+
+  
+
+    width: 100%;
+    padding-bottom: 30px;
+    margin: 0 auto;
+  
+  }
+  
+  .img-bannerM {
+  
+    display: none;
+  }
+  
+  
+  
+  .setpslistthree{
+  
+    font-size: 35px;
+  }
+  
+  
+  .StepsHeader {
+  
+    color:red;
+  }
+  
+  
+  .billysilly2{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:45%;
+    width:45%;
+  
+  
+  
+  }
+  
+  
+  .shadowBilly{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:100%;
+    width:100%;
+  
+  
+  
+  }
+  
+  /* pictures */
+  
+  
+  .successville{
+  
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    height:90%;
+    width:90%;
+  
+  
+  
+  }
+  
+
+  
+  .bodytext{
+  
+    font-size: 34px;
+    padding-left: 65px;
+    padding-right: 65px;
+    font-family: Arial, Helvetica, sans-serif;
+  }
+
+  .bodytextYELLOW{
+  
+    font-size: 44px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+
+    background-color: tan;
+  }
+
+  .bodytextTEST{
+  
+    font-size: 44px;
+    padding-left: 65px;
+    padding-right: 65px;
+    padding-top: 65px;
+    padding-bottom: 65px;
+
+    background-color: aqua;
+    color: black;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+  }
+  
+  /* black box on bottom of index page only */
+  
+  
+  #allAbord_block{
+  
+    background-color: black;
+  }
+  
+  .HeaderTrueLove{
+  
+    text-align: center;
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 25px;
+    padding-bottom: 45px;
+  }
+  
+  #heading{
+    font-family: 'Sacramento', cursive;
+  
+  
+  }
+  
+  #features {
+    padding: 5% 4%;
+    background-color: white;
+    position: relative;
+    
+    }
+  
+  
+  /* for span area to add bold color to words */
+  
+  
+  .pro{
+    color:red;
+  
+  }
+  
+  .pro2{
+    color:green;
+  
+  
+  }
+  
+  .pro3{
+    color:blue;
+  
+  
+  }
+  
+  
+  
+  
+  .picture {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 60%;
+    width: 60%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  .earth {
+    padding-top: 60px;
+    padding-bottom: 70px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+
+  .cartoon {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .WalmartAisle16 {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 60%;
+    width: 60%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+    margin-bottom: 70px;
+  
+  
+    display: block;
+  
+  }
+  
+  .WalmartGrandOpeningDay {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+    margin-bottom: 70px;
+  
+  
+    display: block;
+  
+  }
+  
+  .tcPicturesL {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    width: 50%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    float: left;
+  
+    display: block;
+    border: white 8px solid;
+  
+  }
+  
+  .tcPicturesR {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    
+    width: 50%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    float: right;
+  
+    display: block;
+  
+    border: white 8px solid;
+  
+  
+  }
+  
+  .WalmartAward {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 40%;
+    width: 40%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .storePic {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 100%;
+    width: 100%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .HiItsBillyLogo {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 40%;
+    width: 40%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+
+  
+  
+    display: block;
+  
+  }
+
+  .BigPicture {
+    padding-top: 60px;
+    padding-bottom: 60px;
+    height: 70%;
+    width: 70%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+  
+    margin-left: auto;
+    margin-right: auto;
+  
+  
+    display: block;
+  
+  }
+  
+  .BillyNeckTie {
+    height: 45%;
+    width: 45%;
+    display: block;
+    margin:auto;
+    padding-top: 60px;
+    padding-bottom: 60px;
+  
+  }
+  
+  .collegePic {
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    padding-top: 130px;
+  
+    padding-bottom: 50px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+  }
+  
+  .apLogo {
+    height: 80%;
+    width: 80%;
+    text-align: center;
+    padding-top: 130px;
+  
+    padding-bottom: 50px;
+  
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+  
+  }
+  
+  .picture3 {
+    height: 70%;
+    width: 70%;
+    position:static;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    padding-top: 50px;
+    padding-bottom: 20px;
+    display: block;
+  
+  }
+  
+  
+  
+  h1{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+  
+    font-size: 3.5rem;
+    line-height: 1.5;
+    text-align: left;
+    padding-bottom: 20px;
+  }
+  
+  
+  
+  h3 {
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;';
+    font-size: 3rem;
+    text-align: left;
+  }
+  
+  
+  
+  
+  /* Navigation Bar */
+  
+  .btn2 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 10px;
+     line-height: 10px;
+     color: yellow;
+     font-family: Road Rage;
+     width: 249px;
+     font-size: 60px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+     margin-top: 50px;
+  
+  }
+  
+  /* Yellow box steps for online shopping on index page */
+  
+  .stepsshopping{
+  
+    font-size: 55px;
+    padding-left: 45px;
+    padding-right: 45px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    background-color: yellow;
+    color:black;
+    margin-top: 70px;
+  }
+  
+  .stepsOne{
+  
+    color:black;
+    font-size: 50px;
+  
+  }
+  
+  
+  
+  
+  .yellowTitleBar{
+  
+    font-size: 55px;
+    color:red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    background-color: yellow;
+    text-align: center;
+  }
+  
+  .yellowTitleBarAP{
+  
+    font-size: 55px;
+    color:red;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    margin-top: 40px;
+    margin-bottom: 90px;
+    background-color: yellow;
+    text-align: center;
+  }
+  
+  
+  /* Testimonials Section */
+  
+  .namelocation{
+  
+    font-size: 45px ;
+    width:100%;
+    text-align: left;
+  }
+  
+  
+  #testimonials {
+  text-align: center;
+  padding-bottom: 20px;
+  background-color: black;
+  color: white;
+  
+  }
+  
+  .testimonial-text{
+  
+  font-family: "Ubuntu";
+  color: #FFB612;
+  text-align: center;
+  font-size: 45px ;
+  
+  
+  }
+  
+  
+  .carousel-item {
+    padding: 7% 15%;
+  
+  
+  }
+  
+  
+  
+  
+  /* my resume journey awaits */
+  
+  
+  .MainMessage {
+  
+    padding-top: 25px;
+    margin-left: 25px;
+    margin-right: 25px;
+    font-size: 140px;
+    line-height: 160px;
+    color: yellow;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+  
+  }
+  
+  .MainMessageSub {
+  
+    padding-top: 25px;
+    font-size: 105px;
+    color: white;
+    font-family: 'Road Rage', cursive;
+    text-align: center;
+    line-height: 110px;
+
+    margin-left: 25px;
+    margin-right: 25px;
+
+  
+  }
+  
+  
+  /* CTA or Call to Action Section */
+  
+  
+  
+  
+  /* BOTTOM CONTAINER AREA */
+  
+  
+  
+  a {
+    color: #11999E;
+    font-family: 'Montserrat', sans-serif;
+    margin: 10px 20px;
+    text-decoration: none;
+  }
+  
+  
+  
+  
+  .btn3 {
+     background: #F63D3D;
+     background-image: -webkit-linear-gradient(top, #F63D3D, #811616);
+     background-image: -moz-linear-gradient(top, #F63D3D, #811616);
+     background-image: -ms-linear-gradient(top, #F63D3D, #811616);
+     background-image: -o-linear-gradient(top, #F63D3D, #811616);
+     background-image: -webkit-gradient(to bottom, #F63D3D, #811616);
+     -webkit-border-radius: 20px;
+     -moz-border-radius: 20px;
+     border-radius: 20px;
+     height: 15px;
+     line-height: 10px;
+     color: yellow;
+     font-family: Road Rage;
+     width: 75%;
+     font-size: 66px;
+     font-weight: 900;
+     padding: 28px;
+     -webkit-box-shadow: 1px 1px 6px 0 #000000;
+     -moz-box-shadow: 1px 1px 6px 0 #000000;
+     box-shadow: 1px 1px 6px 0 #000000;
+     text-shadow: 1px 1px 6px #000000;
+     border: solid #762C2C 1px;
+     text-decoration: none;
+     display: inline-block;
+     cursor: pointer;
+     text-align: center;
+     margin-bottom: 20px;
+  
+  }
+  
+  
+  
+  
+  
+  /* Footer Section */
+  
+  .footer2 {
+  padding: 50px;
+  text-align: center;
+  font-size: 38px;
+  color:white;
+  background-color: black;
+  
+  }
+  
+  .footerindex {
+    padding: 50px;
+    text-align: center;
+    font-size: 38px;
+    color:black;
+    background-color: orange;
+    
+    }
+  
+    hr {
+  
+      border: dotted black 6px;
+      border-bottom: none;
+      width: 74%;
+      margin: 100px auto;
+    
+    }
+  
+  
+    @media screen and (max-width:810px) {
+
+      .bodytext{
+  
+        font-size: 44px;
+        padding-left: 65px;
+        padding-right: 65px;
+        font-family: Arial, Helvetica, sans-serif;
+        color: aqua;
+      }
+
+
+
+    }
+  
+  
+  
+
+
+
+
+
+
+
+
+
+
+
+
+ 
+
+
+
+
